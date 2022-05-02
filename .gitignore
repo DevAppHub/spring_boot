@@ -10,6 +10,7 @@ bin/
 logs/
 *.cmd
 *.md
+/.mvn/
 
 # Log file
 *.log
